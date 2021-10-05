@@ -1,0 +1,6 @@
+1) start the game by compliing the files, enter into the terminal: g++ Ability.cpp AbilityDB.cpp BattleManager.cpp Enemy.cpp Entity.cpp main.cpp Player.cpp utils.cpp
+2) run the a.exe file, by entering into the terminal: ./a.exe
+3) enter your name into the game
+4) then you will enter your job you want
+5) then the battle begins, type the number of the ability you want to use
+7) keep going to the end or quit the battle by typing -1

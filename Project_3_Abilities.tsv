@@ -1,0 +1,27 @@
+name	damage	cost	type	classJob
+Cure I	10	2	healing	1
+Cure II	25	4	healing	1
+Cure III	60	8	healing	1
+Fire	17	3	magical	3
+Blizzard	13	2	magical	3
+Thunder	19	5	magical	3
+Water	17	4	magical	3
+Flare	60	20	magical	3
+Light	17	3	magical	1
+Fell Cleave	23	5	physical	0
+Upheaval	12	2	physical	0
+Inner Chaos	80	25	physical	0
+Storm's Path	27	8	physical	0
+Storm's Eye	21	5	physical	0
+Decimate	19	6	physical	0
+Windbite	13	3	physical	2
+Bloodletter	18	5	physical	2
+Empyreal Arrow	22	6	physical	2
+Sidewinder	19	4	physical	2
+Caustic Bite	17	5	physical	2
+Burst Shot	33	13	physical	2
+Monstrous Bite	5	0	physical	4
+Lick	9	0	physical	4
+Tackle	14	0	physical	4
+Fire Breath	17	0	magical	4
+Ram's Voice	22	0	magical	4
